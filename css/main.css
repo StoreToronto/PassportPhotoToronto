@@ -927,7 +927,7 @@ header .intro .copy ul li.hidden {
 .hero a span {
   display: block;
   font-family: "open-sans", sans-serif;
-  font-size: 12px;
+  font-size: 80%;
   color: #959595;
   text-align: center;
   padding-top: 10px;
